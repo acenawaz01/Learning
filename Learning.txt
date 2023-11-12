@@ -1,4 +1,7 @@
-Day 11-11-2023
-.....
+How to use multiple Java and Maven tools in freestyle Jobs:
 
-Day 11-12-2023
+Step1:
+
+Step2:
+
+Step3:
